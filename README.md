@@ -3,6 +3,7 @@
 Primeiro projeto em Wordpress.  
 Transformando um tema estático em um tema de agência em Wordpress e implementando suas funcionalidades.
 
+ ![alt text](https://github.com/leticiabernardo/WorpressThemeLabs/blob/master/img/themelabs.gif "Demo Theme Labs")
 
 ## Instalando Labs com todas as páginas preenchidas
 
@@ -25,10 +26,10 @@ Você pode configurar esta senha editando o perfil do usuário.
 
 ## Instalando apenas o Tema Labs 
 
-Copie e cole em seu projeto Wordpress, o tema Labs que se encontra na pasta:
+Copie e cole em seu projeto Wordpress, o conteúdo que se encontra na pasta:
 
 ```
-wp-content/themes/labs
+wp-content
 ```
 
 ## Módulos
