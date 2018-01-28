@@ -36,16 +36,16 @@ wp-content/
 
 ## Módulos
 
-+ Serviços
-+ Nossa Equipe
 + Slides
++ Nossa Equipe
++ Serviços
 + Depoimentos de Clientes
-+ Publicidade
 + Formulário de Contato
-+ Editar logo em Personalizar Tema
-+ Menu Dinâmico
++ Publicidade
 + Newsletter
++ Menu Dinâmico
 + Feeds do Instagram
++ Editar Logo em "Personalizar Tema"
 
 
 > Para que o envio de e-mail funcione, configure suas informações no plugin WP Mail SMTP.
