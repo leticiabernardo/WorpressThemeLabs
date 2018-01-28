@@ -9,7 +9,7 @@ Transformando um tema estático em um tema de agência em Wordpress e implementa
 
 Você pode testar este tema em wordpress com todas as páginas já preenchidas, apenas importando o banco de dados MySql.
 
-O arquivo de banco de dados se encontra na raiz do projeto, importe este arquivo em sua base de dados:
+Importe o arquivo de banco de dados se encontra na raiz do projeto:
 
 ```
 wordpress_test.sql
