@@ -29,7 +29,7 @@ Você pode configurar esta senha editando o perfil do usuário.
 Copie e cole em seu projeto Wordpress, o conteúdo que se encontra na pasta:
 
 ```
-wp-content
+wp-content/
 ```
 
 ## Módulos
@@ -42,6 +42,9 @@ wp-content
 + Formulário de Contato
 + Editar logo em Personalizar Tema
 + Menu Dinâmico
+
+
+> Para que o envio de e-mail funcione, configure suas informações em no plugin WP Mail SMTP.
 
 
 ## Plugins instalados
