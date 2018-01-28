@@ -42,6 +42,8 @@ wp-content/
 + Formulário de Contato
 + Editar logo em Personalizar Tema
 + Menu Dinâmico
++ Newsletter
++ Feeds do Instagram
 
 
 > Para que o envio de e-mail funcione, configure suas informações no plugin WP Mail SMTP.
