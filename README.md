@@ -44,7 +44,7 @@ wp-content/
 + Menu Dinâmico
 
 
-> Para que o envio de e-mail funcione, configure suas informações em no plugin WP Mail SMTP.
+> Para que o envio de e-mail funcione, configure suas informações no plugin WP Mail SMTP.
 
 
 ## Plugins instalados
