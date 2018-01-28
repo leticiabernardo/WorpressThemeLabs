@@ -5,7 +5,7 @@ Transformando um tema estático em um tema de agência em Wordpress e implementa
 
  ![alt text](https://github.com/leticiabernardo/WorpressThemeLabs/blob/master/img/themelabs.gif "Demo Theme Labs")
 
-## Instalando Labs com todas as páginas preenchidas
+## Iniciante: Instalando Labs com todas as páginas preenchidas
 
 Você pode testar este tema em wordpress com todas as páginas já preenchidas, apenas importando o banco de dados MySql.
 
@@ -26,7 +26,7 @@ Você pode configurar esta senha editando o perfil do usuário.
 
 ## Instalando apenas o Tema Labs 
 
-Copie e cole em seu projeto Wordpress, o conteúdo que se encontra na pasta:
+Copie e cole em seu projeto Wordpress, apenas o conteúdo que se encontra na pasta:
 
 ```
 wp-content/
