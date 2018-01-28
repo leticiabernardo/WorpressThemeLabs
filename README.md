@@ -8,6 +8,7 @@ Transformando um tema estático em um tema de agência em Wordpress e implementa
 ## Instalando o tema Labs com todas as páginas preenchidas
 
 Se você é iniciante em Wordpress.  
+
 Você pode simplesmente fazer o clone do projeto e testar este tema com todas as páginas já preenchidas, apenas importando o banco de dados MySql.
 
 Importe o arquivo de banco de dados que se encontra na raiz do projeto:
